@@ -12,3 +12,5 @@ pipe to combine multiple commands
 IMP:
 
 use code . to open git repo in vscode directly from terminal!
+
+we got this!
