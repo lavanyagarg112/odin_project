@@ -1,0 +1,14 @@
+Using Command line
+
+To change your default shell to Bash type chsh -s /bin/bash and press the Return key, 
+then reboot for the change to take effect. To change your default back to Zsh, type chsh -s /bin/zsh
+
+cd can only see subdirectories
+cd .. to go one directory up 
+just "cd" returns to home directory
+
+pipe to combine multiple commands
+
+IMP:
+
+use code . to open git repo in vscode directly from terminal!
