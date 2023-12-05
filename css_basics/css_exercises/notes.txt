@@ -1,0 +1,6 @@
+padding, border, margin
+
+padding, space between text and border
+border, between margin and padding
+margin, space between 2 diff boxes
+
