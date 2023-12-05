@@ -42,4 +42,7 @@ body {
     font-size: 14px;
   }
 
+  /* not .child cause there is no class directly named .child */
+  /* order matters */
+
   
