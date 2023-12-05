@@ -29,6 +29,12 @@ body {
     color: white;
     font-weight: bold;
   } 
+
+  .child {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 14px;
+  }
   
   div.text {
     color: rgb(0, 0, 0);
@@ -36,8 +42,4 @@ body {
     font-weight: 100;
   }
 
-  .child {
-    color: rgb(0, 0, 0);
-    font-weight: 800;
-    font-size: 14px;
-  }
+  
