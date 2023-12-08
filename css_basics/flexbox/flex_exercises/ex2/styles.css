@@ -19,7 +19,7 @@
   ul {
     /* this removes the dots on the list items*/
     list-style-type: none;
-    flex-direction: row;
+    justify-content: flex-start;
   }
   
   a {
