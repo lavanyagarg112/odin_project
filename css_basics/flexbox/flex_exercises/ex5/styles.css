@@ -60,6 +60,11 @@ body {
   padding: 10px;
 }
 
+.rest {
+    display: flex;
+    margin: auto;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
