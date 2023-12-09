@@ -49,6 +49,15 @@ body {
   flex-shrink: 0;
 }
 
+.rest {
+    display: flex;
+    flex-direction: column;
+}
+
+.mainflex {
+    display: flex;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
@@ -72,6 +81,8 @@ body {
     font-size: 120%;
     padding: 10px;
 }
+
+
 
 .text {
     display: flex;
