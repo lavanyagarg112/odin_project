@@ -19,7 +19,6 @@ body {
   .individual {
     display: flex;
     flex-direction: column;
-    justify-content: center;
   }
 
   .text {
@@ -30,6 +29,8 @@ body {
   img {
     width: 100px;
     height: 100px;
+    display: flex;
+    justify-content: center;
   }
   
   /* do not edit this footer */
