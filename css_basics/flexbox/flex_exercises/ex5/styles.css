@@ -62,9 +62,9 @@ body {
 
 .header {
     display: flex;
-    margin: auto;
     font-weight: bold;
     font-size: 120%;
+    padding: 10px;
 }
 
 button {
