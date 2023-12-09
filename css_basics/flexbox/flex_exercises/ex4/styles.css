@@ -19,16 +19,17 @@ body {
   .individual {
     display: flex;
     flex-direction: column;
+    justify-content: center;
   }
 
   .text {
     padding: 10px;
+    text-align: center;
   }
 
   img {
     width: 100px;
     height: 100px;
-    justify-content: center;
   }
   
   /* do not edit this footer */
