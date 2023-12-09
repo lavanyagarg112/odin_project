@@ -25,9 +25,14 @@ body {
   gap: 8px;
 }
 
-.icon-outer {
+.icon-outer1 {
     padding: 10px;
     padding-right: 0px;
+}
+
+.icon-outer2 {
+    padding: 10px;
+    padding-left: 0px;
 }
 
 .icon {
@@ -59,7 +64,6 @@ body {
   padding: 0;
   flex-shrink: 0;
   padding: 10px;
-  padding-left: 0px;
 }
 
 .header {
@@ -79,7 +83,7 @@ body {
     display: flex;
     gap: 5px;
     padding: 10px;
-    padding-top: 0px
+    padding-top: 0px;
 }
 
 button {
