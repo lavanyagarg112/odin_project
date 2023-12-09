@@ -60,10 +60,11 @@ body {
   padding: 10px;
 }
 
-.rest {
+.header {
     display: flex;
-    flex-direction: column;
     margin: auto;
+    font-weight: bold;
+    font-size: 120%;
 }
 
 button {
