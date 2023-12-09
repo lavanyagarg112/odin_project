@@ -67,6 +67,11 @@ body {
     padding: 10px;
 }
 
+.text {
+    display: flex;
+    padding: 10px;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
