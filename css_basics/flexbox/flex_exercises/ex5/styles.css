@@ -25,6 +25,10 @@ body {
   gap: 8px;
 }
 
+.icon-outer {
+    padding: 10px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
@@ -37,7 +41,6 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  padding: 10px;
 }
 
 .close-button {
