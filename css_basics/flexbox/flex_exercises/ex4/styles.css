@@ -2,11 +2,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
   }
   
-  img {
-    width: 100px;
-    height: 100px;
-    justify-content: center;
-  }
+ 
   
   .title {
     font-size: 36px;
@@ -27,6 +23,12 @@ body {
 
   .text {
     padding: 10px;
+  }
+
+  img {
+    width: 100px;
+    height: 100px;
+    justify-content: center;
   }
   
   /* do not edit this footer */
