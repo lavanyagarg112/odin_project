@@ -20,10 +20,10 @@ body {
   .individual {
     display: flex;
     flex-direction: column;
+    padding: 10px;
   }
 
   .text {
-    padding: 10px;
     text-align: center;
   }
 
