@@ -48,16 +48,17 @@ a {
 .footer {
     display: flex;
     margin-top: auto;
-    padding: 16px
+    padding: 16px;
+    justify-content: space-between;
 }
 
 .left-links  {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
 }
 
 .right-links {
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
 }
 
