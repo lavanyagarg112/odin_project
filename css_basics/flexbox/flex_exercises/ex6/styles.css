@@ -36,9 +36,6 @@ a {
     text-decoration: none;
 }
 
-.spacer {
-    flex: 1;
-}
 
 .header {
     display: flex;
@@ -56,11 +53,11 @@ a {
 
 .left-links  {
     display: flex;
-    margin-right: auto;
+    justify-content: left;
 }
 
 .right-links {
     display: flex;
-    margin-left: auto;
+    justify-content: right;
 }
 
