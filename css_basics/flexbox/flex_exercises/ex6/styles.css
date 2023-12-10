@@ -51,10 +51,10 @@ a {
 
 .left-links  {
     display: flex;
-    margin-right: auto;
+    margin: auto;
 }
 
 .right-links {
     display: flex;
-    margin-left: auto;
+    margin: auto;
 }
