@@ -40,8 +40,10 @@ input {
 
 .left-links  {
     display: flex;
+    margin-right: auto;
 }
 
 .right-links {
     display: flex;
+    margin-left: auto;
 }
