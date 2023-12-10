@@ -36,6 +36,10 @@ a {
     text-decoration: none;
 }
 
+.spacer {
+    flex: 1;
+}
+
 .header {
     display: flex;
     margin-bottom: auto;
@@ -60,6 +64,3 @@ a {
     margin-left: auto;
 }
 
-.spacer {
-    flex: 1;
-}
