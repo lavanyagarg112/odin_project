@@ -28,6 +28,11 @@ input {
   margin-bottom: 16px;
 }
 
+ul {
+    list-style: none;
+    text-decoration: none;
+}
+
 .header {
     display: flex;
     margin-bottom: auto;
