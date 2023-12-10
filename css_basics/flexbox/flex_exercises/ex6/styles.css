@@ -27,3 +27,13 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.header {
+    display: flex;
+    margin-bottom: auto;
+}
+
+.footer {
+    display: flex;
+    margin-top: auto;
+}
