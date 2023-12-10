@@ -37,3 +37,11 @@ input {
     display: flex;
     margin-top: auto;
 }
+
+.left-links  {
+    display: flex;
+}
+
+.right-links {
+    display: flex;
+}
