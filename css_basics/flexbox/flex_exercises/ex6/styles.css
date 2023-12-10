@@ -39,7 +39,8 @@ a {
 .header {
     display: flex;
     margin-bottom: auto;
-    padding: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
     justify-content: space-between;
 }
 
@@ -51,8 +52,10 @@ a {
 
 .left-links  {
     display: flex;
+    margin-right: auto;
 }
 
 .right-links {
     display: flex;
+    margin-left: auto;
 }
