@@ -39,11 +39,13 @@ a {
 .header {
     display: flex;
     margin-bottom: auto;
+    padding: 16px;
 }
 
 .footer {
     display: flex;
     margin-top: auto;
+    padding: 16px
 }
 
 .left-links  {
