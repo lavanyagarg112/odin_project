@@ -41,9 +41,11 @@ input {
 .left-links  {
     display: flex;
     margin-right: auto;
+    gap: 8px;
 }
 
 .right-links {
     display: flex;
     margin-left: auto;
+    gap: 8px;
 }
