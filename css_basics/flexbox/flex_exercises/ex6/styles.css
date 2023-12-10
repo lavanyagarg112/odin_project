@@ -34,7 +34,6 @@ ul {
 
 a {
     text-decoration: none;
-    flex-basis: 100px;
 }
 
 .header {
@@ -59,4 +58,8 @@ a {
 .right-links {
     display: flex;
     margin-left: auto;
+}
+
+.spacer {
+    flex: 1;
 }
