@@ -31,7 +31,7 @@ body {
     width: 300px;
     background: royalblue;
     box-sizing: border-box;
-    flex-grow: 1;
+    margin-bottom: 0;
   }
   
   .card {
