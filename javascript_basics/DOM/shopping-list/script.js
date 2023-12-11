@@ -18,6 +18,10 @@ function buttonclick(){
 
     ulelem.appendChild(newlst);
 
+    newbutton.addEventListener('click', () => {
+        ulelem.removeChild(newlst);
+    });
+
 }
 
 buttonelem.addEventListener('click', buttonclick);
